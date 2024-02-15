@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630143369737",
+    "project_id": "brainbox-d0ebf",
+    "storage_bucket": "brainbox-d0ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630143369737:android:6c12549d3c9e9d032faed8",
+        "android_client_info": {
+          "package_name": "com.example.brainbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_VPA50kOTF_ilnBl0hOw9VbtVD4WKis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
